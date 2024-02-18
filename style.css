@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding: 10px;
+    background: rgb(73, 4, 4);
+}
+
+.container {
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 41px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.img1 {
+    width: 123px;
+    height: 32px;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+    margin-left: 36px;
+}
+
+a {
+    width: 90px;
+    height: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+    list-style: none;
+    text-decoration: none;
+}
+
+li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.logo {
+    width: 36px;
+    height: 36px;
+    left: 0%;
+    right: 0%;
+    top: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+}
+
+.container10 {
+    width: 100%;
+    background: rgb(0, 0, 0);
+}
+
+.container2 {
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+h1 {
+    width: 480.66px;
+    height: 122px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 51px;
+    font-weight: 700;
+    line-height: 60.61px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.text1 {
+    width: 337.66px;
+    height: 77px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 43px;
+}
+
+.but1 {
+    width: 125px;
+    height: 16px;
+    background: rgb(141, 253, 27);
+    width: 203.59px;
+    height: 60px;
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 115px;
+}
+
+button:active {
+    color: rgb(141, 253, 27);
+    cursor: pointer;
+    background-color: red;
+}
+
+.img2 {
+    width: 664.39px;
+    height: 438px;
+}
+
+.container3 {
+    background-image: url(./IMAGE\ \(2\).png);
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    width: 227px;
+    height: 46px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45.48px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 230px;
+}
+
+.img3 {
+    width: 540px;
+    height: 271px;
+    margin-left: 540px;
+    margin-top: 102px;
+}
